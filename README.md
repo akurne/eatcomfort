@@ -1,1 +1,1 @@
-[eatcomfort's GitHub stats](https://github-readme-stats.vercel.app/api?username=eatcomfort)
+[eatcomfort's GitHub stats](https://github-readme-stats.vercel.app/api?username=eatcomfort&show_icons=true&theme=radical)
